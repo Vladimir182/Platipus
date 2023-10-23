@@ -1,0 +1,43 @@
+.user-disabled {
+  background-color: rgb(255, 204, 203);
+  padding: 5px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+}
+
+.user-enabled {
+  background-color: rgb(144, 238, 144);
+  padding: 5px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+}
+
+.flag {
+  display: block !important;
+  margin: 0 auto;
+}
+
+.status-data-cell {
+  text-align: center;
+}
+
+.status-data-cell {
+  display: flex;
+  justify-content: space-between;
+}
+
+.status-data-cell.status-data-cell__short {
+  justify-content: center;
+}
+
+.status-data-cell .ant-tag {
+  min-width: 65px;
+  margin-right: 0;
+  cursor: auto;
+}
+
+.status-data-cell .ant-switch {
+  margin-left: 4px;
+}

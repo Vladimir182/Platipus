@@ -1,0 +1,32 @@
+.edit-gamification-dynamic-delete-button {
+  cursor: pointer;
+  position: relative;
+  top: 4px;
+  font-size: 24px;
+  color: #999;
+  transition: all 0.3s;
+}
+.edit-gamification-dynamic-delete-button:hover {
+  color: #777;
+}
+.edit-gamification-dynamic-delete-button[disabled] {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.edit-gamification-wrap-field {
+  border: 1px solid #d9d9d9;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+.edit-gamification-prize-delete-row{
+  text-align: center;
+  /* margin-left: 48px; */
+  font-size: 1.2rem;
+}
+
+.edit-gamification-validation-err input {
+  border-color: rgba(255, 0, 0, 0.8);
+  color: rgba(255, 0, 0, 0.8);
+  transition: 0.4s;
+}

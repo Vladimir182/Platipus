@@ -1,0 +1,12 @@
+.gift-count-badge {
+  margin-left: 10px;
+  border-radius: 10px;
+  min-width: 20px;
+  background: rgb(82, 196, 26);
+  color: #fff;
+  text-align: center;
+  padding: 0 6px;
+  white-space: nowrap;
+  -webkit-box-shadow: 0 0 0 1px #fff;
+  box-shadow: 0 0 0 1px #fff;
+}

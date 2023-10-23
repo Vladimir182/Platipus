@@ -1,0 +1,17 @@
+@keyframes example {
+  0% {background-color: white;}
+  5% {background-color: rgba(26, 212, 51, 0.31);}
+  95% {background-color: rgba(26, 212, 51, 0.31);}
+  100% {background-color: white;}
+}
+
+.changed-row {
+  transition: background-color 1s;
+  background-color: rgba(26, 212, 51, 0.31);
+}
+
+.added-row {
+  background: white;
+  animation-name: example;
+  animation-duration: 20s;
+}

@@ -1,0 +1,23 @@
+/*@media only screen and (max-width: 991px) {*/
+/*.custom-calendar .ant-calendar-range-part {*/
+/*width:auto !important;*/
+/*}*/
+/*.custom-calendar .ant-calendar-range {*/
+/*width:auto !important;;*/
+/*}*/
+/*.custom-calendar .ant-calendar-range-middle {*/
+/*display: none;*/
+/*}*/
+/*.custom-calendar .ant-calendar-range-right .ant-calendar-input-wrap {*/
+/*margin-top: 5px;*/
+/*}*/
+/*.custom-calendar .ant-calendar-range-left .ant-calendar-input-wrap {*/
+/*margin-top: 5px;*/
+/*}*/
+/*}*/
+.ant-advanced-search-form .ant-form-item {
+  margin-bottom: 12px;
+}
+.ant-tabs-bar {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,10 @@
+.download-button {
+  background-color: green;
+  border-color: green;
+  /*margin-bottom: 16px;*/
+}
+
+.download-button:hover, .download-button:focus {
+  background-color: #009600;
+  border-color: #009600;
+}

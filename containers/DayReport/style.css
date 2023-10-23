@@ -1,0 +1,7 @@
+.tooltip-link-to-report {
+  cursor: pointer;
+  font-weight: bold;
+}
+.tooltip-link-to-report:hover {
+  color: #40a9ff;
+}

@@ -1,0 +1,1 @@
+export const HISTORY_IMG_URL = 'https://platipusgaming.cloud/backoffice/img_platipus';

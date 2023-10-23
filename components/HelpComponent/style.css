@@ -1,0 +1,21 @@
+.overflow-img-wrapper {
+  overflow-x: auto;
+}
+
+.ant-list {
+  font-size: 20px;
+}
+
+.ant-list-sm .ant-list-item {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.overflow-img-wrapper img {
+  border: 1px solid #e8e8e8;
+  padding: 5px;
+}
+
+.ant-anchor {
+  font-size: 12px;
+}
